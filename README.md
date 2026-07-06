@@ -39,7 +39,8 @@ streamlit run app.py
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1917" height="1035" alt="Personal AI Data Analyst - Google Chrome 06-07-2026 21_34_47" src="https://github.com/user-attachments/assets/f0ed42d5-0654-4188-804c-cb287522ca64" />
+
 
 ## Future Improvements
 
